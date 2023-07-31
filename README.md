@@ -1,5 +1,5 @@
 # Classification
-All my classification projects
+In this repository I use some methods such as logistic regression, decision tree, k-nearest neghbors and SVM to classification some dataset wich you can observe them here.
 ## Classification_cell_saples_dataset
 In this project I worked with `cell_samples.csv` dataset. The porpuse of this project was binary classification.
 
