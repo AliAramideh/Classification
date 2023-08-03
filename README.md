@@ -1,6 +1,6 @@
 # Classification
 In this repository I use some methods such as logistic regression, decision tree, k-nearest neghbors and SVM to classification some dataset wich you can observe them here.
-## Classification_cell_saples_dataset
+## Classification_cell_samples_dataset
 In this project I worked with `cell_samples.csv` dataset. The porpuse of this project was binary classification.
 
 I used 4 methods wich mentions blew to classification then compare their accuracy.
